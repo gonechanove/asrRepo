@@ -7,7 +7,7 @@
 <title>Proyecto ASR Gonzalo Echanove</title>
 </head>
 <body>
-<h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps: version 2</h1>
+<h1>Ejemplo de Proyecto de ASR con Cloudant ahora con DevOps: Translator incluido</h1>
 <hr />
 <p><b>Aplicación de Gonzalo Echanove:</b> Opciones <b>CLOUDANT o ZZZZZZ n IBM Cloud</b>:</p>
 <ul>
