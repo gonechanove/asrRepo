@@ -12,7 +12,7 @@
 <p><b>Aplicación de Gonzalo Echanove:</b> Opciones <b>CLOUDANT o ZZZZZZ n IBM Cloud</b>:</p>
 <ul>
 <li><a href="listar">Listar</a></li>
-<li><a href="insertar?palabra=GonzaloEchanove">Insertar tu nombre</a></li>
+<li><a href="insertar?palabra=Gato">Insertar tu nombre</a></li>
 </ul>
 </body>
 </html>
